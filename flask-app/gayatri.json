@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gayatri-kadiyala",
+  "private_key_id": "a8f0e60b49f37350f88698402bac735feb54b13f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWUsxVIgD54tmv\n2LdG2SunfDpJJWVvqEZ+LkQB4Nyuls7JmVGficqdjq+2S3ea8nXl0+9xszoMQ+zk\nt5Yr1IPd6UvHMSbeRHgSQUgV3FFU/DSl7wygbwmKIjPhv5NsB/OPsQoMQGHOUAJV\nUbruWUI3bTMf0y1cKFhC9GtcxGNVDVjI5WQnNfjQ1FPIaRepW4xzk5GBqWWGOzCW\nFtGm/hZ9lrVORCmzl5svHUB3JZxzVgbdLi9ekb426V4ecf8kazG8I7E3DpHl3oWX\nzSpz8uhWrxFNqVcs4p0YIXp3SMNIQXWrZ2KH8I+vhiG5PIxujOFLhtc9yJ+sxrp/\ntwvVGJhVAgMBAAECggEALsDcKzwiO2DVvQsJHC7222/5pQg/4wYx7oe4NTKw4XMr\nhAXqrONZrFo6kYlP+6ClwG+lvcdrw84ziMdVvpT6+TdR3Q+nW3hTOyQ7je1EXsYv\n0/zcY8klKxl/+OCaT8hCRRfJSdfnniKNB8CvBxy4ma+8JdajAAYbDuwT2aZLxvse\naut/7ITgxPfAkX9Ox9emnSt50rxQibmyCLqAZP84rltGUhth8FoKcxiJTVxCjxyH\nJ6CP7lY1zraKoXVPXSk3rHy9JdwvHJo1qkWgULkt6iUPBl/TCCIRnQwxD7OU1it0\na3KyN9ocG+15bw8Rop2jQzHj1dNkClMnhI2Y1RELoQKBgQD7z1kifdzeyWBFKosh\nTRd7RBcMMEv2VH+W5TJjXYTxqraRqLhIBOXt6/WLVFe49QfL38a6dbrsA9BDz5EN\n1T/vDMtE1wWEHHjLcjtFxVZIq+a+oPZ6NsN1Lev4SisZr0AyTOcqVc+Br61b7akQ\nEuseBmQbwlF1Iyk26ZCiY5s/RQKBgQDZ48QgpEHYTl8fr5+f+hOxjNlkknGQtuh4\nJ0xbmgO1v5maObpUhXuO2svgQbEa/OTWSjyovdxupBTqWsUHk5RI8tPZrK2Y1ZhK\nTZ8ZBoGAeihu1XBJ3EWbDSzG8q85PSzfb1Aepr+HGaqabx/5/tXq5mzx+g9tZ8ug\nQpHKR1S90QKBgAXcBFH2Jc6VVwUlAUnMFnDK29JvyUS5IKLtQGfphC9vboIjL+6V\nFpibtgIA+22VXhITafdqx+e4Cv+Y8+IjhTJV1OEMM9eoJfNt/A0ak3Brd5oV+sZL\nQe8XG3eSmkAlwNOq0HI+vu5gnSMXe6ihGBGBypCOzAByygG6G6B7uuAVAoGBAMOk\nFG1ur0SmkhjkW4KMS/SHUIdSSrAy26dPOeuh7aTapfPp05mixR+u65KvyXM/EcYr\noC2vVGbv42vOFs3HwESD7J6twq3RU82bxrf0tIEErpteAFYBd2pSORtlutm9STZS\nP3FWLfEDpcDG+MJDBBbH0Ziv+/wzT43VWAx1YeyRAoGBANpSfvnndgcVTQzTKEke\nCAPb0sFlLmGse36ctuKhKz+7fkXg13vPkF+An24SvBUk0o+bp9M0RHr6luFuJ2S6\nZCZNzN6ASe6Y3vdXvYrsYZDU3TC/0TxXp+qVVbIyqfs18bmiHOdhLaJKOP9DilhZ\nxaXXdt9kQr8Vq63ZPM1Yhkfl\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket@gayatri-kadiyala.iam.gserviceaccount.com",
+  "client_id": "106752172227651778107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket%40gayatri-kadiyala.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

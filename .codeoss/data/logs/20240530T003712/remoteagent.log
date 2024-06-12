@@ -1,0 +1,24 @@
+2024-05-30 00:37:12.150 [info] 
+
+
+
+
+2024-05-30 00:37:12.173 [info] Extension host agent started.
+2024-05-30 00:37:15.041 [info] [127.0.0.1][5d60e655][ManagementConnection] New connection established.
+2024-05-30 00:37:15.084 [info] [127.0.0.1][61b38e89][ExtensionHostConnection] New connection established.
+2024-05-30 00:37:17.015 [info] [127.0.0.1][61b38e89][ExtensionHostConnection] <6490> Launched Extension Host Process.
+2024-05-30 00:37:17.494 [info] [127.0.0.1][5d60e655][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 00:37:17.616 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js:175:6112)
+    at process.emit (node:events:513:28)
+2024-05-30 00:37:32.094 [info] [127.0.0.1][0b316cf0][ManagementConnection] New connection established.
+2024-05-30 00:37:32.222 [info] [127.0.0.1][54b6be91][ExtensionHostConnection] New connection established.
+2024-05-30 00:37:32.241 [info] [127.0.0.1][54b6be91][ExtensionHostConnection] <6539> Launched Extension Host Process.
+2024-05-30 00:37:41.157 [info] [127.0.0.1][0b316cf0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 00:37:41.255 [info] [127.0.0.1][54b6be91][ExtensionHostConnection] <6539> Extension Host Process exited with code: 0, signal: null.
+2024-05-30 00:37:42.035 [info] [127.0.0.1][80ec5f02][ManagementConnection] New connection established.
+2024-05-30 00:37:42.293 [info] [127.0.0.1][01e7a41e][ExtensionHostConnection] New connection established.
+2024-05-30 00:37:42.306 [info] [127.0.0.1][01e7a41e][ExtensionHostConnection] <6577> Launched Extension Host Process.
+2024-05-30 00:42:33.207 [info] [127.0.0.1][61b38e89][ExtensionHostConnection] <6490> Extension Host Process exited with code: 0, signal: null.
+2024-05-30 01:13:58.720 [info] [127.0.0.1][80ec5f02][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 01:13:58.822 [info] [127.0.0.1][01e7a41e][ExtensionHostConnection] <6577> Extension Host Process exited with code: 0, signal: null.

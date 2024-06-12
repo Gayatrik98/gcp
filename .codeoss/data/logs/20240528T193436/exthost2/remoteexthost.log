@@ -1,0 +1,22 @@
+2024-05-28 20:09:05.862 [info] Extension host with pid 1924 started
+2024-05-28 20:09:05.986 [info] Lock '/home/gayathriprasadkadiyala/.codeoss/data/User/workspaceStorage/235b5c16/vscode.lock': Lock acquired.
+2024-05-28 20:09:06.118 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-28 20:09:06.133 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:app.py'
+2024-05-28 20:09:06.499 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-28 20:09:06.500 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-28 20:09:13.122 [info] Not activating extension 'golang.go': Timed out while searching for 'workspaceContains' pattern *.go,*/*.go,*/*/*.go
+2024-05-28 20:09:13.122 [info] Not activating extension 'hashicorp.terraform': Timed out while searching for 'workspaceContains' pattern **/*.tf,**/*.tfvars
+2024-05-28 20:09:13.124 [info] Not activating extension 'redhat.fabric8-analytics': Timed out while searching for 'workspaceContains' pattern **/package.json,**/pom.xml,**/requirements.txt,**/go.mod
+2024-05-28 20:09:13.125 [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-05-28 20:09:13.125 [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-05-28 20:09:13.125 [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-05-28 20:09:13.126 [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2024-05-28 20:09:13.573 [info] Eager extensions activated
+2024-05-28 20:09:13.574 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 20:09:13.576 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 20:09:13.576 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 20:09:13.577 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 20:09:13.578 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 20:09:16.746 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-28 20:09:16.748 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-28 20:09:16.751 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

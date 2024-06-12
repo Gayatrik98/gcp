@@ -1,0 +1,40 @@
+2024-05-29 23:03:37.967 [info] 
+
+
+
+
+2024-05-29 23:03:37.967 [info] Extension host agent started.
+2024-05-29 23:03:40.437 [info] [127.0.0.1][708178d4][ManagementConnection] New connection established.
+2024-05-29 23:03:40.546 [info] [127.0.0.1][d46686d5][ExtensionHostConnection] New connection established.
+2024-05-29 23:03:42.381 [info] [127.0.0.1][d46686d5][ExtensionHostConnection] <1107> Launched Extension Host Process.
+2024-05-29 23:04:47.039 [info] [127.0.0.1][708178d4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-29 23:04:47.123 [info] [127.0.0.1][d46686d5][ExtensionHostConnection] <1107> Extension Host Process exited with code: 0, signal: null.
+2024-05-29 23:05:13.577 [info] [127.0.0.1][92643b38][ManagementConnection] New connection established.
+2024-05-29 23:05:13.635 [info] [127.0.0.1][4a54982a][ExtensionHostConnection] New connection established.
+2024-05-29 23:05:13.650 [info] [127.0.0.1][4a54982a][ExtensionHostConnection] <1559> Launched Extension Host Process.
+2024-05-29 23:45:40.735 [info] [127.0.0.1][4a54982a][ExtensionHostConnection] The client has reconnected.
+2024-05-29 23:45:43.327 [info] [127.0.0.1][92643b38][ManagementConnection] The client has reconnected.
+2024-05-29 23:55:20.606 [info] [127.0.0.1][cd75c328][ManagementConnection] New connection established.
+2024-05-29 23:55:20.610 [info] [127.0.0.1][9d6dd201][ExtensionHostConnection] New connection established.
+2024-05-29 23:55:20.619 [info] [127.0.0.1][9d6dd201][ExtensionHostConnection] <3420> Launched Extension Host Process.
+2024-05-29 23:55:23.346 [warning] RequestStore#acceptReply was called without receiving a matching request 27
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 28
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 29
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 30
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 31
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 32
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 33
+2024-05-29 23:55:23.347 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2024-05-29 23:55:23.348 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2024-05-29 23:55:23.348 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2024-05-29 23:55:23.348 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2024-05-29 23:55:23.348 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2024-05-29 23:55:23.348 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2024-05-30 00:07:43.464 [info] [127.0.0.1][cd75c328][ManagementConnection] The client has reconnected.
+2024-05-30 00:07:43.694 [info] [127.0.0.1][92643b38][ManagementConnection] The client has reconnected.
+2024-05-30 00:07:43.907 [info] [127.0.0.1][4a54982a][ExtensionHostConnection] The client has reconnected.
+2024-05-30 00:07:44.223 [info] [127.0.0.1][9d6dd201][ExtensionHostConnection] The client has reconnected.
+2024-05-30 00:23:03.076 [info] [127.0.0.1][cd75c328][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 00:23:03.131 [info] [127.0.0.1][9d6dd201][ExtensionHostConnection] <3420> Extension Host Process exited with code: 0, signal: null.
+2024-05-30 00:36:43.981 [info] [127.0.0.1][92643b38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 00:36:44.059 [info] [127.0.0.1][4a54982a][ExtensionHostConnection] <1559> Extension Host Process exited with code: 0, signal: null.

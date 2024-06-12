@@ -1,0 +1,13 @@
+2024-06-06 01:01:39.882 [info] 
+
+
+
+
+2024-06-06 01:01:39.896 [info] Extension host agent started.
+2024-06-06 01:01:43.924 [info] [127.0.0.1][812e28a0][ExtensionHostConnection] New connection established.
+2024-06-06 01:01:43.925 [info] [127.0.0.1][cecc32c1][ManagementConnection] New connection established.
+2024-06-06 01:01:45.640 [info] [127.0.0.1][812e28a0][ExtensionHostConnection] <799> Launched Extension Host Process.
+2024-06-06 01:27:12.368 [info] [127.0.0.1][cecc32c1][ManagementConnection] The client has reconnected.
+2024-06-06 01:27:12.732 [info] [127.0.0.1][812e28a0][ExtensionHostConnection] The client has reconnected.
+2024-06-06 01:27:59.382 [info] [127.0.0.1][cecc32c1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-06 01:27:59.451 [info] [127.0.0.1][812e28a0][ExtensionHostConnection] <799> Extension Host Process exited with code: 0, signal: null.

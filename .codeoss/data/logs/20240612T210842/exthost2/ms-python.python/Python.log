@@ -1,0 +1,67 @@
+2024-06-12 21:32:39.340 [info] Test server listening.
+2024-06-12 21:32:39.340 [info] > conda info --json
+2024-06-12 21:32:39.341 [info] Found: /bin/python --> /usr/bin/python3.10
+2024-06-12 21:32:39.342 [info] Found: /bin/python2 --> /bin/python2.7
+2024-06-12 21:32:39.342 [info] Found: /bin/python2.7 --> /bin/python2.7
+2024-06-12 21:32:39.343 [info] Found: /bin/python3 --> /bin/python3.10
+2024-06-12 21:32:39.343 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-06-12 21:32:39.360 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-06-12 21:32:39.361 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-06-12 21:32:39.361 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-06-12 21:32:39.361 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-06-12 21:32:39.361 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-06-12 21:32:39.409 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.432 [info] > /bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.465 [info] > /bin/python3 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.474 [warning] Error: Command failed: /bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12) {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py'
+}
+2024-06-12 21:32:39.474 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-06-12 21:32:39.494 [info] > /bin/python2 /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.517 [info] > /usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.523 [warning] Error: Command failed: /usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12) {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py'
+}
+2024-06-12 21:32:39.523 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-06-12 21:32:39.539 [info] > /usr/bin/python2 /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/interpreterInfo.py
+2024-06-12 21:32:39.589 [info] Python interpreter path: /bin/python
+2024-06-12 21:32:39.718 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.718 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-06-12 21:32:39.863 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-06-12 21:32:39.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:39.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 21:32:41.615 [info] Starting Jedi language server for gayathriprasadkadiyala.
